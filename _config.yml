@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'David Zhao'
-description:	       'documenting things of my interest'
+description:	       'documenting things of interest'
 author:              'David Zhao'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
